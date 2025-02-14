@@ -6,6 +6,10 @@
 //  Copyright © 2019 Luis Padron. All rights reserved.
 //
 
+import CoreFoundation
+import Foundation
+import QuartzCore
+
 /**
  * This file includes internal extensions.
  */
