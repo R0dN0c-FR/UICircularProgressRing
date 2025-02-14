@@ -14,8 +14,7 @@ let package = Package(
     targets: [
         .target(
             name: "UICircularProgressRing",
-            path: "UICircularProgressRing",
-            publicHeadersPath: "Public" // à adapter si nécessaire
+            path: "src/UICircularProgressRing",
         )
     ],
     swiftLanguageVersions: [.v5]
